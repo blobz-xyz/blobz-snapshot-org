@@ -13,6 +13,9 @@ https://snapshot.org/#/blobzxyz.eth/proposal/0x9165b23480773f3372ca2317e252ea47a
 Vote on BLOBz FWX Allocation Now! - 1,625
 https://snapshot.org/#/blobzxyz.eth/proposal/0xcf2370820458433b8094ef1eff1214b33d2cacf666662ead9f1d8c8fa056150d
 
+$BLOBZ Chapter 3 Claim Deadline - 1,380
+https://snapshot.org/#/blobzxyz.eth/proposal/0x3a7a4d12cdb34850c2dee35fa2a5bfff37a6fd55d1147da813daaf04618fd217
+
 ``` api -> json
 https://hub.snapshot.org/graphql
 https://docs.snapshot.org/tools/api#votes

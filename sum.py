@@ -25,6 +25,10 @@ sources = [
         '5_1.json',
         '5_2.json',
     ],
+    [
+        '6_1.json',
+        '6_2.json',
+    ],
 ]
 
 chunk = {}
